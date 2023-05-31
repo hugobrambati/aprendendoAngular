@@ -1,0 +1,14 @@
+h1,p, a{
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.primeiro{
+    padding: 50px;
+    margin:  auto;
+}
+
+.segundo{
+    margin: auto;
+    padding: 25px;
+}
